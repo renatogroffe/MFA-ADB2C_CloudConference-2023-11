@@ -15,9 +15,9 @@ Tecnologias utilizadas: **Azure AD B2C, Microsoft Identity, .NET 7, C#, Visual S
 
 Número de participantes: **20 pessoas (estimativa)**
 
-Link do evento: [**LinkedIn**](https://www.instagram.com/p/C2aJIr9B1Yu/?img_index=1)
+Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/cloud-conference-day_cloud-azure-activity-7124498344151760896-pYXt?utm_source=share&utm_medium=member_desktop)
 
-Site do evento: https://www.cloudconferenceday.com/
+Site do evento: **https://www.cloudconferenceday.com/**
 
 Deixo aqui meus agradecimentos à **Bruna Grellt** e ao **Rhuan Rocha** por todo o apoio para que eu partipasse como palestrante de mais uma edição do **Cloud Conference**.
 
